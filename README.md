@@ -1,5 +1,5 @@
 - Hi! My name is Ben Vicinelli.
 - I am a sophomore at Wake Forest University.
 - I have been coding mostly in Java but I am learning new languages as well.
-- I am currently collaboarting on a Blackjack simulator in C with one of my friends.
+- I am currently collaboarting on a Blackjack simulator in C# with a fellow student.
 - You can reach me at 914-216-5915 or benvicinelli@yahoo.com
