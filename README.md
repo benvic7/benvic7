@@ -1,5 +1,5 @@
 - Hi! My name is Ben Vicinelli.
-- I am a junior at Wake Forest University, studying abroad this semester at King's College London.
-- I have been coding mostly in Java but I also know Python and C#.
-- I am currently searching for software engineer internships.
+- I am a junior at Wake Forest University, but I studied abroad this past fall at King's College London.
+- I have been coding mostly in Java, but I also know Python, C, C#, and Git.
+- I am currently interning as a Software Engineer at Walmart Global Tech.
 - You can reach me at 914-216-5915 or benvicinelli@yahoo.com
