@@ -2,7 +2,7 @@
 
 I am from Larchmont, NY and a Computer Science major entering my senior year at Wake Forest University.
 
-## Languages and Technologies  ⌨️
+## ⌨️ Languages and Technologies
 
 I have been coding mostly in Java, but I also know HTML, CSS, JavaScript, SQL, Python, C, C#, and Git.
 
