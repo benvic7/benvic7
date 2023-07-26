@@ -12,7 +12,7 @@ In my free time, I am learning frontend programming languages (HTML, CSS, JavaSc
 
 ## My Current Project 🚀
 
-At Walmart Global Tech, I'm building a versioning tool to automate and revolutionize the deployment and update process for micro frontends to a shell UI.
+At Walmart Global Tech, I'm building a versioning tool that uses APIs to automate and revolutionize the deployment and update process for micro frontends to a shell UI.
 
 ## Get in Touch! 📞
 
