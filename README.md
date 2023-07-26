@@ -1,8 +1,23 @@
-- Hi! My name is Ben Vicinelli.
-- I am a junior at Wake Forest University from Larchmont, NY. I studied abroad this past fall at King's College London.
-- I have been coding mostly in Java, but I also know Python, C, C#, and Git.
-- Some technologies I'm familiar with are Java Spring Boot, Pygame, Mockito, Postman, Apache Maven, Jira, and more.
-- I am currently interning as a Software Engineer at Walmart Global Tech.
-- For my internship, I am building an API to automate and therefore reduce upload time for micro frontends to a shell application.
-- In my free time, I am learning frontend programming languages (HTML, CSS, JavaScript, and React).
-- You can reach me at 914-216-5915 or benvicinelli@yahoo.com
+# Hello! I'm Ben Vicinelli.
+
+I am from Larchmont, NY and a Computer Science major entering my senior year at Wake Forest University.
+
+## Languages and Technologies ⌨️
+
+I have been coding mostly in Java, but I also know HTML, CSS, JavaScript, SQL, Python, C, C#, and Git.
+
+Some technologies I'm familiar with are Java Spring Boot, Pygame, Mockito, Postman, Apache Maven, Jira, and more.
+
+In my free time, I am learning frontend programming languages (HTML, CSS, JavaScript, and React).
+
+## My Current Project 🚀
+
+At Walmart Global Tech, I'm building a versioning tool to automate and revolutionize the deployment and update process for micro frontends to a shell UI.
+
+## Get in Touch! 📞
+
+Feel free to reach out to me at:
+
+📞 Phone: (914) 216-5915
+
+📧 Email: benvicinelli@yahoo.com
