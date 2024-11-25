@@ -1,6 +1,6 @@
 # Hello! I'm Ben Vicinelli.
 
-I am from Larchmont, NY and a Computer Science major entering my senior year at Wake Forest University.
+I am from Larchmont, NY but currently live in San Francisco, CA. I graduated from Wake Forest University with a BS in and a Computer Science in 2024 and currently work as a backend software engineer for Walmart Global Tech in Sunnyvale, CA.
 
 ## Languages and Technologies ⌨
 
@@ -12,7 +12,7 @@ In my free time, I am learning frontend programming languages (HTML, CSS, JavaSc
 
 ## My Current Project 🚀
 
-At Walmart Global Tech, I'm building a versioning tool that uses APIs to automate and revolutionize the deployment and update process for micro frontends to a shell UI.
+In my free time, I am working on developing a ski-themed social media site.
 
 ## Get in Touch! 📞
 
@@ -20,4 +20,4 @@ Feel free to reach out to me at:
 
 Phone: (914) 216-5915
 
-Email: benvicinelli@yahoo.com
+Email: benjaminvicinelli@gmail.com
