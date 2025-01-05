@@ -1,6 +1,6 @@
 # Hello! I'm Ben Vicinelli.
 
-I am from Larchmont, NY but currently live in San Francisco, CA. I graduated from Wake Forest University with a BS in and a Computer Science in 2024 and currently work as a backend software engineer for Walmart Global Tech in Sunnyvale, CA.
+I am from Larchmont, NY but currently live in San Francisco, CA. I graduated from Wake Forest University in 2024 with a BS in Computer Science and a minor in Studio Art. I currently work as a backend Software Engineer II for Walmart Global Tech in Sunnyvale, CA.
 
 ## Languages and Technologies ⌨
 
