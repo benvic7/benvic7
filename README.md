@@ -4,15 +4,15 @@ I am from Larchmont, NY but currently live in San Francisco, CA. I graduated fro
 
 ## Languages and Technologies ⌨
 
-I have been coding mostly in Java, but I also know HTML, CSS, JavaScript, SQL, Python, C, C#, and Git.
+I have been coding mostly in Java, but I also know Python, HTML, CSS, JavaScript, SQL, C, C#, and Git.
 
-Some technologies I'm familiar with are Java Spring Boot, Pygame, Mockito, Postman, Apache Maven, Jira, and more.
+Some technologies I'm familiar with are Java Spring Boot, Pygame, Mockito, Postman, Apache Maven, Kafka, Jira, and more.
 
 In my free time, I am learning frontend programming languages (HTML, CSS, JavaScript, and React).
 
 ## My Current Project 🚀
 
-In my free time, I am working on developing a ski-themed social media site.
+I am currently working on developing a full-stack ski-themed social media site.
 
 ## Get in Touch! 📞
 
